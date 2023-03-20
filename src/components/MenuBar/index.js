@@ -41,7 +41,7 @@ const MenuBar = () => {
           bg={getThemeColor()}
           duration={0.6}
           to="/"
-          title="Ir para Home"
+          title="首页"
         >
           <MenuBarItem>
             <Home size={26} />
@@ -53,7 +53,7 @@ const MenuBar = () => {
           bg={getThemeColor()}
           duration={0.6}
           to="/talks"
-          title="Talks e Participações"
+          title="会谈和参与"
         >
           <MenuBarItem>
             <Talks size={26} />
@@ -66,7 +66,7 @@ const MenuBar = () => {
           bg={getThemeColor()}
           duration={0.6}
           to="/about/"
-          title="Sobre mim"
+          title="关于我"
         >
           <MenuBarItem>
             <Person size={26} />
@@ -79,31 +79,30 @@ const MenuBar = () => {
           bg={getThemeColor()}
           duration={0.6}
           to="/skills/"
-          title="Skills"
+          title="技能"
         >
           <MenuBarItem>
             <Skills size={26} />
           </MenuBarItem>
         </MenuBarLink>
-        {/* Search有问题，暂时屏蔽，后续修复 */}
-        <MenuBarLink
+        {/* Search需要申请api，上线后再申请，暂时屏蔽，后续修复 */}
+        {/* <MenuBarLink
           cover
           direction="left"
           bg={getThemeColor()}
           duration={0.6}
           to="/search/"
-          title="Pesquisar"
+          title="搜索"
         >
           <MenuBarItem>
             <Search size={26} />
           </MenuBarItem>
-        </MenuBarLink>
-
+        </MenuBarLink> */}
       </MenuBarGroup>
 
       <MenuBarGroup>
         <MenuBarItem
-          title="Mudar o tema"
+          title="更改主题"
           onClick={() => {
             window.__setPreferredTheme(isDarkMode ? "light" : "dark");
           }}
@@ -112,7 +111,7 @@ const MenuBar = () => {
           {isDarkMode ? <LightBulb size={26} /> : <Lightbulb size={26} />}
         </MenuBarItem>
 
-        <MenuBarItem title="Ir para o topo" onClick={scrollToTop}>
+        <MenuBarItem title="回到顶部" onClick={scrollToTop}>
           <ArrowUp size={26} />
         </MenuBarItem>
       </MenuBarGroup>

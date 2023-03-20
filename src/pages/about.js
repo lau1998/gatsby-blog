@@ -22,37 +22,37 @@ import {
 const AboutPage = () => (
   <Layout>
     <Seo title="About" />
-    <AboutHeader>Sobre Mim</AboutHeader>
-    <AboutDescription>Olá, meu nome é Ilda Neta!</AboutDescription>
+    <AboutHeader>关于我</AboutHeader>
+    <AboutDescription>你好，我叫Luacher</AboutDescription>
     <AboutDescription>
-      Atuando há mais de 7 anos na área de tecnologia, descobri meu amor pela
-      programação, e assim atuo como desenvolvedora mobile.
+      在技术领域工作了7年多，我发现了我对
+      编程，所以我是一名移动开发人员。
     </AboutDescription>
 
     <AboutDescription>
-      Atuo com foco na experiência e usuabilidade dos usuários, pensando sempre
-      em como criar interfaces lindas, responsivas e sempre com o foco no
-      usuário.
+      我的工作重点是用户体验和可用性，总是思考
+      如何创建美观的界面，响应迅速，始终专注于
+      使用者
     </AboutDescription>
 
     <AboutDescription>
-      Além disso, procuro estar em constante contato com nossa comunidade,
-      através da produção de conteúdos, mentorias, lives e participação em talks
-      de tecnologia, nacionais e internacionais.
+      此外，我努力与我们的社区保持持续的联系，
+      通过内容制作、指导、生活和参与谈话
+      国内和国际技术。
     </AboutDescription>
 
     <AboutDescription>
-      Atualmente estou desenvolvendo uma nova versão para meu blog, trazendo
-      ainda mais a experiência e a usabilidade para o centro da aplicação, além
-      da implementação de novos idiomas, auxiliando pessoas que vivem em outros
-      países terem acesso aos conteúdos produzidos.
+      我目前正在为我的博客开发一个新版本
+      此外，对于应用程序的中心来说，还有更多的经验和可用性
+      实施新语言，帮助生活在其他语言中的人
+      国家可以访问所制作的内容。
     </AboutDescription>
 
     <AboutDescription>
-      Fico muito feliz com sua visita, e espero te ver por aqui mais vezes.
+      我对你的来访感到非常高兴，并希望能更多地在这里见到你。
     </AboutDescription>
 
-    <AboutSubTitle>Entre em contato comigo</AboutSubTitle>
+    <AboutSubTitle>与我联系</AboutSubTitle>
 
     <AboutLinksList>
       {links.map((link, index) => {

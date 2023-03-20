@@ -23,7 +23,7 @@ const Pagination = ({
         bg={getThemeColor()}
         duration={0.6}
       >
-        <ArrowLeft /> página anterior
+        <ArrowLeft /> 上一页
       </AniLink>
     )}
     <p>
@@ -37,7 +37,7 @@ const Pagination = ({
         bg={getThemeColor()}
         duration={0.6}
       >
-        próxima página
+       下一页
         <ArrowRight />
       </AniLink>
     )}

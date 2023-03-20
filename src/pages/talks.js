@@ -12,7 +12,7 @@ const Talks = () => {
       <Seo title="Talks" />
       <Styled.Container>
         <Styled.ContainerTitle>
-          <Styled.Title>Talks</Styled.Title>
+          <Styled.Title>会谈</Styled.Title>
         </Styled.ContainerTitle>
 
         <Styled.ContainerTalks>
@@ -30,7 +30,7 @@ const Talks = () => {
         <Styled.Divider />
 
         <Styled.ContainerTitle>
-          <Styled.Title>Podcasts</Styled.Title>
+          <Styled.Title>播客</Styled.Title>
         </Styled.ContainerTitle>
 
         <Styled.ContainerTalks>
@@ -48,7 +48,7 @@ const Talks = () => {
         <Styled.Divider />
 
         <Styled.ContainerTitle>
-          <Styled.Title>Participações no Youtube</Styled.Title>
+          <Styled.Title>Youtube参与</Styled.Title>
         </Styled.ContainerTitle>
 
         <Styled.ContainerTalks>

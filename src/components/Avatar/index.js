@@ -22,7 +22,7 @@ const Avatar = () => {
   return (
     <AvatarWrapper
       image={avatarImage.childImageSharp.gatsbyImageData}
-      alt="Imagem de avatar"
+      alt="头像"
     />
   );
 };

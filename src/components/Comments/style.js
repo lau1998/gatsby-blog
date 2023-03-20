@@ -11,7 +11,7 @@ export const CommentsWrapper = styled.section`
     max-width: 100%;
   `}
 
-  /* Retirando as propagandas do disqus*/
+  /*重新定义为传播者*/
   iframe[src*='ads-iframe'] {
     display: none;
   }

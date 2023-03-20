@@ -20,9 +20,9 @@ import {
 const SkillsPage = () => (
   <Layout>
     <Seo title="Skills" />
-    <SkillsHeader>Skills</SkillsHeader>
+    <SkillsHeader>技能</SkillsHeader>
 
-    <SkillsSubTitle>Hard Skills</SkillsSubTitle>
+    <SkillsSubTitle>硬技能</SkillsSubTitle>
     <SkillsList>
       {links.map((link, index) => {
         const Icon = Icons[link.label];
@@ -39,28 +39,28 @@ const SkillsPage = () => (
 
     <Spacer />
 
-    <SkillsSubTitle>Soft Skills</SkillsSubTitle>
+    <SkillsSubTitle>软技能</SkillsSubTitle>
 
     <SoftSkillsWrapper>
       <Div>
-        <SkillsP>Empatia</SkillsP>
+        <SkillsP>共情</SkillsP>
       </Div>
       <Div>
-        <SkillsP>Liderança</SkillsP>
+        <SkillsP>领导</SkillsP>
       </Div>
       <Div>
-        <SkillsP>Adaptabilidade </SkillsP>
+        <SkillsP>适应性</SkillsP>
       </Div>
       <Div>
-        <SkillsP>Comunicação clara</SkillsP>
-      </Div>
-
-      <Div>
-        <SkillsP>Trabalho em equipe</SkillsP>
+        <SkillsP>清晰的沟通</SkillsP>
       </Div>
 
       <Div>
-        <SkillsP>Inteligência emocional</SkillsP>
+        <SkillsP>团队合作</SkillsP>
+      </Div>
+
+      <Div>
+        <SkillsP>情商</SkillsP>
       </Div>
     </SoftSkillsWrapper>
   </Layout>

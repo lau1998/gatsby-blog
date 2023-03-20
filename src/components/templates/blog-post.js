@@ -21,7 +21,7 @@ const BlogPost = ({ data, pageContext }) => {
   const previous = pageContext.previousPost;
 
   return (
-    // Integrando o post com o layout através das tags Layout e SEO
+    // 通过布局和SEO标签将帖子与布局集成
     <Layout>
       <Seo
         title={title}
@@ -30,7 +30,7 @@ const BlogPost = ({ data, pageContext }) => {
       />
       <s.PostHeader>
         <s.PostDate>
-          {date} • {timeToRead} min de leitura
+          {date} • {timeToRead} 最小读数
         </s.PostDate>
         <s.PostTitle>{title}</s.PostTitle>
         <s.PostDescription>{description}</s.PostDescription>

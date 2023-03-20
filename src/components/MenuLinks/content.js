@@ -1,19 +1,19 @@
 const links = [
   {
-    label: "Home",
+    label: "首页",
     url: "/",
   },
   {
-    label: "Talks e Participações",
+    label: "会谈和参与",
     url: "/talks",
   },
   {
-    label: "Sobre Mim",
+    label: "关于我",
     url: "/about",
   },
 
   {
-    label: "Skills",
+    label: "技能",
     url: "/skills",
   },
 ];

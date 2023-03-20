@@ -1,4 +1,4 @@
-/* the path can take the path of the folder without confusing the API*/
+/* 该路径可以采用文件夹的路径，而不会混淆API*/
 const path = require('path');
 
 const { createFilePath } = require(`gatsby-source-filesystem`);
@@ -19,11 +19,11 @@ exports.sourceNodes = ({ actions, schema }) => {
   );
 };
 
-// To add the slug to each post
+// 将段塞添加到每个帖子
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
 
-  // checking if we are processing only markdown files
+  // 检查我们是否只处理降价文件
   if (node.internal.type === 'MarkdownRemark') {
     const slug = createFilePath({
       node,
@@ -31,18 +31,18 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       basePath: 'pages',
     });
 
-    // creating a new field with name slug with the way of URL equal the value
+    // 以URL等于值的方式创建名称为slug的新字段
     createNodeField({
       node,
       name: 'slug',
-      /* limiting the amount of characters so that we only see in URL the 
-      name of post without the date */
+      /* 限制字符数量，使我们只能在URL中看到
+      没有日期的职位名称 */
       value: `posts/${slug.slice(12)}`,
     });
   }
 };
 
-// creating pages from each post
+// 从每个帖子创建页面
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 

@@ -93,17 +93,17 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-algolia-search`,
-      options: {
-        appId: process.env.GATSBY_ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_ADMIN_KEY,
-        indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
-        queries,
-        chunkSize: 10000, // 一次的数据量
-        enablePartialUpdates: true,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-algolia-search`,
+    //   options: {
+    //     appId: process.env.GATSBY_ALGOLIA_APP_ID,
+    //     apiKey: process.env.ALGOLIA_ADMIN_KEY,
+    //     indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
+    //     queries,
+    //     chunkSize: 10000, // 一次的数据量
+    //     enablePartialUpdates: true,
+    //   },
+    // },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

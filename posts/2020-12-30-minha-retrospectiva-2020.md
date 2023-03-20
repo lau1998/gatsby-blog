@@ -6,11 +6,11 @@ description: >-
   forma diferente, estarei apresentando meus últimos 14 meses e todas as
   evoluções que tive nesse período. Acompanhe!
 date: '2020-12-30 05:00:14'
-thumbnail: assets/img/ILdaNeta.png
+thumbnail: /assets/img/ILdaNeta.png
 category: Dev
 background: '#CD4C51'
 ---
-![Retrospectiva Ilda Neta 2020](assets/img/ILdaNeta.png "Retrospectiva Ilda Neta 2020")
+![Retrospectiva Ilda Neta 2020](/assets/img/ILdaNeta.png "Retrospectiva Ilda Neta 2020")
 
 # Retrospectiva 2020
 
@@ -30,17 +30,17 @@ Passei o ano de 2019 estudando, principalmente a partir de agosto/19 onde invest
 
 No dia 26/10 realizei a primeira palestra da minha carreira em um evento de tecnologia, e além de ser tão especial para mim, esse evento era focado em mulheres e grupos LGBTQIA+, e naquele momento pude levar um tema extremamente importante para nossa área, o complexo de inferioridade, e como poderíamos lutar contra ele para conseguirmos dar a volta por cima.
 
-![Palestra FEMTEC](assets/img/ILDA NETA.png)
+![Palestra FEMTEC](/assets/img/ILDA NETA.png)
 
 Nessa palestra pude contar um pouco da minha trajetória, incluindo os passos que estava realizando para minha mudança de carreira para a área de desenvolvimento, que era um tema recorrente no evento, mulheres que estavam em transição de carreira, ou que estavam tentando pela primeira vez empregos na área de tecnologia.
 
-![Palestrantes FEMTEC](assets/img/Untitled.png "Palestrantes FEMTEC")
+![Palestrantes FEMTEC](/assets/img/Untitled.png "Palestrantes FEMTEC")
 
 E por ser um evento de tecnologia, era extremamente necessário falar sobre Ada Lovelace, a primeira programadora da história, uma mulher totalmente a frente de seu tempo, que revolucionou a forma como olhamos para os algoritmos, mas que poucas vezes ouvimos falar dela.
 
 Deixo abaixo o slide que criei sobre Ada para mostrar as mulheres do evento:
 
-![Ada Lovelace](assets/img/ada.png "Ada Lovelace")
+![Ada Lovelace](/assets/img/ada.png "Ada Lovelace")
 
 E basicamente essa foi minha maior conquista nesse mês, pois nunca pensei que me tornaria uma palestrante, e que isso seria apenas a ponta de tudo que estaria por vir.
 
@@ -86,17 +86,17 @@ No mês de fevereiro realizei minha primeira palestra do ano de 2020, e foi na e
 
 Por amar falar sobre educação financeira, achei que seria uma boa oportunidade repassar os poucos conhecimentos que havia aprendido até aquele momento com meus colegas de trabalho, com isso realizei uma talk com o tema: Pensando como um investidor para começar a economizar.
 
-![Pensando como um investidor para começar a economizar - Talk Ilda Neta](assets/img/a.jpg "Pensando como um investidor para começar a economizar - Talk Ilda Neta")
+![Pensando como um investidor para começar a economizar - Talk Ilda Neta](/assets/img/a.jpg "Pensando como um investidor para começar a economizar - Talk Ilda Neta")
 
 Foi uma palestra onde pude falar sobre o valor do nosso ativo mais precioso: NOSSO TEMPO. Também pude explicar sobre alguns princípios do investimento, dicas de livros para o conhecimento mais profundo sobre educação financeira, algumas opções para que possamos conseguir mais ativos para investir e sobre a independência financeira.
 
 Eis abaixo alguns slides que utilizei nessa apresentação:
 
-![Tempo, o ativo mais caro que possuimos](assets/img/aaa.png "Tempo, o ativo mais caro que possuimos")
+![Tempo, o ativo mais caro que possuimos](/assets/img/aaa.png "Tempo, o ativo mais caro que possuimos")
 
-![Como podemos possuir mais?](assets/img/aab.png "Como podemos possuir mais?")
+![Como podemos possuir mais?](/assets/img/aab.png "Como podemos possuir mais?")
 
-![Principios do investidor](assets/img/aad.jpeg "Principios do investidor")
+![Principios do investidor](/assets/img/aad.jpeg "Principios do investidor")
 
 Por fim, comecei a atuar em um projeto para um White Label bancário, onde eu e mais um desenvolvedor frontend cuidaríamos da interface de renda fixa desse projeto, se transformando em uma grande oportunidade em minha carreira e aumentando ainda mais meu amor pela educação através das finanças.
 
@@ -104,15 +104,15 @@ Por fim, comecei a atuar em um projeto para um White Label bancário, onde eu e 
 
 Em março apesar de terem começado a surgir os primeiros casos de COVID-19 em Salvador, ainda estavam havendo eventos presenciais, e devido a isso, realizamos um encontro presencial com a comunidade PyLadies Salvador, onde fui convidada para falar sobre as possibilidades de carreira em tecnologia.
 
-![Encontro PyLadies Salvador](assets/img/aae.png "Encontro PyLadies Salvador")
+![Encontro PyLadies Salvador](/assets/img/aae.png "Encontro PyLadies Salvador")
 
-![Encontro PyLadies Salvador](assets/img/aaf.png "Encontro PyLadies Salvador")
+![Encontro PyLadies Salvador](/assets/img/aaf.png "Encontro PyLadies Salvador")
 
 Foi um evento dedicado também a mulheres que estavam migrando de área e/ou com interesse em iniciar uma nova carreira em tecnologia.
 
 Em março também seria realizado um evento chamado SEMCOMP UFBA (Semana da computação da Universidade Federal da Bahia), onde fui convidada para palestrar e havia escolhido o tema: Desvendando a carreira frontend, mas devido ao aumento de casos de COVID-19 na Bahia, o evento foi adiado, e mais tarde remarcado para o mês de novembro.
 
-![SEMCOMP UFBA](assets/img/aag.png "SEMCOMP UFBA")
+![SEMCOMP UFBA](/assets/img/aag.png "SEMCOMP UFBA")
 
 Para fechar o mês de março, criei o artigo sobre Markdown, onde mostrei a importância dessa linguagem de marcação e como nós desenvolvedores(as) podemos utilizá-la para alavancar nossas oportunidades laborais.
 
@@ -147,7 +147,7 @@ Está sendo um grande aprendizado para minha carreira e vida pessoal, pois foi a
 
 Por fim, mas não menos importante, fui convidada por Diego Fernandes para ser uma mentora voluntária no novo programa que a rocketseat criava para destacar seus alunos, o Space Squad.
 
-![Space Squad Logo](assets/img/Roxo Casamento Instagram Post.png "Space Squad Logo")
+![Space Squad Logo](/assets/img/Roxo Casamento Instagram Post.png "Space Squad Logo")
 
 E no fim de maio, fui convidada a contar minha trajetória no podcast Alumni da Rocketseat, e assim surge meu primeiro vídeo no youtube, com Mayk Brito (Alô galera, aqui é Mayk Brito na área rsrs).
 
@@ -201,11 +201,11 @@ Foi uma LIVE bem descontraída e recheada de dicas, tudo para que vocês pudesse
 
 E no fim, eu e Marcos tiramos várias dúvidas de quem estava assistindo online.
 
-![Dicas para se destacar profissionalmente com Ilda Neta e Marcos Henrique](assets/img/Captura de Tela 2020-12-30 às 15.07.02.png "Dicas para se destacar profissionalmente com Ilda Neta e Marcos Henrique")
+![Dicas para se destacar profissionalmente com Ilda Neta e Marcos Henrique](/assets/img/Captura de Tela 2020-12-30 às 15.07.02.png "Dicas para se destacar profissionalmente com Ilda Neta e Marcos Henrique")
 
 E para encerrar meu mês de setembro em grande estilo, fui selecionada para palestrar no maior evento de React da América Latina, a React Conf Brasil que seria realizada em novembro de 2020, de forma online e totalmente gratuita, pela primeira vez no evento.
 
-![React Conf Brasil 2020 - Ilda Neta](assets/img/aaaa.png "React Conf Brasil 2020 - Ilda Neta")
+![React Conf Brasil 2020 - Ilda Neta](/assets/img/aaaa.png "React Conf Brasil 2020 - Ilda Neta")
 
 ## Outubro de 2020
 
@@ -215,7 +215,7 @@ Foi uma super live com Rodrigo Terron e Matheus Tadeu, onde pudemos contar um po
 
 Tivemos nesse dia mais de 1.000 pessoas assistindo a LIVE simultaneamente, uma experiência que não esperava em viver, e que foi muito engrandecedora para minha carreira. Terei essa lembrança guardada comigo para sempre.
 
-![Next Level Week - Ate 2 anos em 2 meses](assets/img/aaab.png "Next Level Week - Ate 2 anos em 2 meses")
+![Next Level Week - Ate 2 anos em 2 meses](/assets/img/aaab.png "Next Level Week - Ate 2 anos em 2 meses")
 
 ## Novembro de 2020
 
@@ -223,7 +223,7 @@ No dia 16 de novembro lançamos o PIX do Banco ABC Brasil, e foi simplesmente um
 
 Esse projeto foi a concretização de um enorme esforço realizado em conjunto por diversas áreas do banco, um projeto que estava sendo muito aguardado e valorizado pelo banco em geral.
 
-![PIX Banco ABC Brasil](assets/img/aa.png "PIX Banco ABC Brasil")
+![PIX Banco ABC Brasil](/assets/img/aa.png "PIX Banco ABC Brasil")
 
 Além do resultado que alcançamos como equipe, desenvolvendo uma aplicação totamente do zero, foi extremamente gratificante termos como resultado final essa entrega visual linda, minimalista e centrada no usuário.
 
@@ -235,9 +235,9 @@ De todos os objetivos que planejei alcançar durante esse ano de 2020, essa era 
 
 Para assistir minha talk, [basta clicar nesse link.](https://www.youtube.com/watch?v=K1TpmE-XNuA&t=658s&ab_channel=ComunidadeReactBrasil)
 
-![React Conf Brasil - Ilda Neta](assets/img/ha.png "React Conf Brasil - Ilda Neta")
+![React Conf Brasil - Ilda Neta](/assets/img/ha.png "React Conf Brasil - Ilda Neta")
 
-![React Conf Brasil - Ilda Neta](assets/img/haha.png "React Conf Brasil - Ilda Neta")
+![React Conf Brasil - Ilda Neta](/assets/img/haha.png "React Conf Brasil - Ilda Neta")
 
 ## Dezembro de 2020
 

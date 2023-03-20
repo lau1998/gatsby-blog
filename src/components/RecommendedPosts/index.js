@@ -17,7 +17,7 @@ const RecommendedPosts = ({ next, previous }) => (
         className="previous"
       >
         <s.ArrowLeftt />
-        Post Anterior: {previous.frontmatter.title}
+        上一篇文章: {previous.frontmatter.title}
       </s.RecommendedLink>
     )}
 
@@ -30,14 +30,14 @@ const RecommendedPosts = ({ next, previous }) => (
         to={next.fields.slug}
         className="next"
       >
-        Próximo Post: {next.frontmatter.title}
+        下一篇文章: {next.frontmatter.title}
         <s.ArrowRightt />
       </s.RecommendedLink>
     )}
   </s.RecommendedWrapper>
 );
 
-// shape is a object propertie
+// 形状是一种对象属性
 RecommendedPosts.propTypes = {
   next: propTypes.shape({
     frontmatter: propTypes.shape({

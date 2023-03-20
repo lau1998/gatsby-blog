@@ -86,26 +86,67 @@ const GlobalStyle = createGlobalStyle`
     --iconColor: #363636;
     --backgroundIcons: #e5e3e3;
     --colorBorder: #DFE2E5;
+    /* 滚动条样式 */
+    ::-webkit-scrollbar-thumb {
+        background-color: #f7a5a6;
+        border-radius: 10px;
+    }
   }
-
   body.light{
     --colorLettersComments: #363636;
     --white: #fff;
-    --rose: #f7a5a6;
+    --rose: #aa00aa;
     --background: #f9f9f9;
-    --mediumBackground: #fcf2f2;
+    --mediumBackground: #f9f9f9;
+    // --mediumBackground: #fcf2f2;
     --colorLetters: #363636;
     --colorIcons: #333;
-    --hover: #f7a5a6;
-    --hoverRecommended: #f77394;
-    --linkColor: #f77394;
-    --searchColor: #f77394;
+    --hover: #aa00aa;
+    // --hover: #f7a5a6;
+    --hoverRecommended: #AA2BAA;
+    --linkColor: #AA2BAA;
+    --searchColor: #AA2BAA;
     --placeholderSearch: #333;
-    --inputColorSearch: #f77394;
+    --inputColorSearch: #AA2BAA;
     --iconColor: #363636;
     --backgroundIcons: #fcf2f2;
     --colorBorder: #333;
+    /* 滚动条样式 */
+    ::-webkit-scrollbar-thumb {
+        background-color: #AA55AA;
+        border-radius: 10px;
+    }
   }
+  // body.light{
+  //   --colorLettersComments: #363636;
+  //   --white: #fff;
+  //   --rose: #aa00aa;
+  //   --background: #f9f9f9;
+  //   --mediumBackground: #f9f9f9;
+  //   // --mediumBackground: #fcf2f2;
+  //   --colorLetters: #363636;
+  //   --colorIcons: #333;
+  //   --hover: #aa00aa;
+  //   // --hover: #f7a5a6;
+  //   --hoverRecommended: #f77394;
+  //   --linkColor: #f77394;
+  //   --searchColor: #f77394;
+  //   --placeholderSearch: #333;
+  //   --inputColorSearch: #f77394;
+  //   --iconColor: #363636;
+  //   --backgroundIcons: #fcf2f2;
+  //   --colorBorder: #333;
+  //   /* 滚动条样式 */
+  //   ::-webkit-scrollbar-thumb {
+  //       background-color: #AA55AA;
+  //       border-radius: 5px;
+  //   }
+  // }
 
+  /* 滚动条样式 */
+  ::-webkit-scrollbar {
+      width: 6px;
+  }
+ 
 `;
 export default GlobalStyle;

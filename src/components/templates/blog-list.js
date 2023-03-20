@@ -19,7 +19,7 @@ const BlogList = (props) => {
 
   return (
     <Layout>
-      <Seo title="Home" />
+      <Seo title="首页" />
       <s.ListWrapper>
         {postList.map(
           ({

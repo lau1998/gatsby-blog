@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: ildasilva/my-personal-blog-gatsby
+  repo: ildasilva/my-personal-blog-gatsby  # GitLab存储库的路径
   branch: master
-  site_domain: ildaneta.dev
+  site_domain: ildaneta.dev # GitLab设置中的应用程序ID
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
@@ -10,11 +10,11 @@ public_folder: 'assets/img'
 
 collections:
   - name: 'posts' # Used in routes, e.g., /admin/collections/blog
-    label: 'posts' # Used in the UI
-    folder: 'posts' # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+    label: 'posts' # 在UI中使用
+    folder: 'posts' # 存储文档的文件夹的路径
+    create: true # 允许用户在此集合中创建新文档
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # 文件名模板, e.g., YYYY-MM-DD-title.md
+    fields: # 每个文档的字段，通常在前面
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }

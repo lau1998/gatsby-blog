@@ -60,7 +60,7 @@ export default function HTML(props) {
         />
         {props.preBodyComponents}
         <noscript key="noscript" id="gatsby-noscript">
-          This app works best with JavaScript enabled.
+        此应用程序在启用JavaScript的情况下效果最佳。
         </noscript>
         <div
           key={`body`}

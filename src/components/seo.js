@@ -33,7 +33,7 @@ function Seo({ description, lang, meta, title, thumbnail }) {
       meta={[
         {
           name: `aplication-name`,
-          content: "Ilda Neta Blog",
+          content: "Laucher Blog",
         },
         {
           name: `description`,
@@ -53,11 +53,11 @@ function Seo({ description, lang, meta, title, thumbnail }) {
         },
         {
           property: `og:type`,
-          content: `website`,
+          content: `站点`,
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: `总结`,
         },
         {
           name: `twitter:creator`,
@@ -77,7 +77,7 @@ function Seo({ description, lang, meta, title, thumbnail }) {
 }
 
 Seo.defaultProps = {
-  lang: `pt`,
+  lang: `zh-CN`,
   meta: [],
   description: ``,
 };

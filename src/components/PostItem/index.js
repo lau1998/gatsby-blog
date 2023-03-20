@@ -33,7 +33,7 @@ const PostItem = ({
 
       <PostItemInfo>
         <PostItemDate>
-          {date} • {timeToRead} min de leitura
+          {date} • {timeToRead} 最小读数
         </PostItemDate>
         <PostItemTitle>{title}</PostItemTitle>
         <PostItemDescription>{description}</PostItemDescription>
