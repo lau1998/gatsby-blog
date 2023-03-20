@@ -5,7 +5,7 @@ import scrollToTop from "../../utils/scrollToTop";
 import { SearchAlt2 as Search } from "@styled-icons/boxicons-regular";
 import { CodeSSlash as Skills } from "@styled-icons/remix-fill";
 // import { HomeHeart as Home } from "@styled-icons/boxicons-regular";
-import { HomeSmile as Home } from "@styled-icons/remix-fill/HomeSmile";
+import { HomeSmile as Home } from "@styled-icons/remix-line";
 
 import { LightBulb } from "@styled-icons/octicons";
 import { Lightbulb } from "@styled-icons/fa-solid";
