@@ -52,7 +52,7 @@ export const query = graphql`
       frontmatter {
         title
         description
-        date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
+        date(locale: "zh-CN", formatString: "YYYY [年] MMMM [月] DD")
         thumbnail
       }
       html
