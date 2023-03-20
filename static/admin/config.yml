@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: ildasilva/my-personal-blog-gatsby  # GitLab存储库的路径
-  branch: master
-  site_domain: ildaneta.dev # GitLab设置中的应用程序ID
+  repo: lau1998/gatsby-blog  # GitLab存储库的路径
+  branch: main
+  site_domain: 39038cc7450592b1fa4d # GitLab设置中的应用程序ID
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
