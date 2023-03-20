@@ -1,6 +1,6 @@
 backend:
   name: github
-  // repo: lau1998/gatsby-blog  # GitLab存储库的路径
+  repo: lau1998/gatsby-blog  # GitLab存储库的路径
   branch: main
   // site_domain: ildaneta.dev # GitLab设置中的应用程序ID 
 
