@@ -2,7 +2,7 @@ backend:
   name: github
   repo: lau1998/gatsby-blog  # GitLab存储库的路径
   branch: main
-  site_domain: 39038cc7450592b1fa4d # GitLab设置中的应用程序ID DInWQdQI4uDkZuAkiSFTwYCeBd1ZrMl7KYz8XK1xIO8 || 39038cc7450592b1fa4d
+  site_domain: 1280cad56318fff2f76996f0ed531334127945fe # GitLab设置中的应用程序ID DInWQdQI4uDkZuAkiSFTwYCeBd1ZrMl7KYz8XK1xIO8 || 39038cc7450592b1fa4d || 1280cad56318fff2f76996f0ed531334127945fe
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
