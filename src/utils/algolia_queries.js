@@ -11,7 +11,7 @@ const postQuery = `{
           title
           category
           date_timestamp: date
-          date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
+          date(locale: "zh-CN", formatString: "DD [de] MMMM [de] YYYY")
           description
         }
         excerpt(pruneLength: 5000)
