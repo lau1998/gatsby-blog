@@ -8,7 +8,7 @@ module.exports = {
     position: `前端开发工程师`,
     description: `通过知识共享寻求改变我们社会的移动开发者。 `,
     author: `LAUCHER`,
-    siteURL: `https://ildaneta.dev/`,
+    siteURL: `https://czhlove.cn`,
   },
   flags: {
     DEV_SSR: true,
