@@ -41,7 +41,7 @@ module.exports = {
         // 延迟发送路由更新时的页面视图命中（以毫秒为单位）
         pageTransitionDelay: 0,
         // 使用您的容器Id启用谷歌优化
-        optimizeId: "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
+        optimizeId: "OPT-WD5RT9L",
         // 启用谷歌优化实验ID
         experimentId: "RB7v2vfWRhe7rz35q3O_eA",
         // Set Variation ID. 0 for original 1,2,3....
