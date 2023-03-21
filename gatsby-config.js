@@ -43,9 +43,9 @@ module.exports = {
         // 使用您的容器Id启用谷歌优化
         optimizeId: "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
         // 启用谷歌优化实验ID
-        experimentId: "YOUR_GOOGLE_EXPERIMENT_ID",
+        experimentId: "RB7v2vfWRhe7rz35q3O_eA",
         // Set Variation ID. 0 for original 1,2,3....
-        variationId: "YOUR_GOOGLE_OPTIMIZE_VARIATION_ID",
+        variationId: "original 1",
         // 页面加载后延迟执行谷歌分析脚本
         defer: false,
         // 任何其他可选字段
