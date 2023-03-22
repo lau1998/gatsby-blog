@@ -23,33 +23,29 @@ const AboutPage = () => (
   <Layout>
     <Seo title="About" />
     <AboutHeader>关于我</AboutHeader>
-    <AboutDescription>你好，我叫Luacher</AboutDescription>
+    <AboutDescription>我知道你会来，所以我在等</AboutDescription>
     <AboutDescription>
-      在技术领域工作了7年多，我发现了我对
-      编程，所以我是一名移动开发人员。
+      欢迎访问我的Blog！我是Laucher，生活在成都
     </AboutDescription>
 
     <AboutDescription>
-      我的工作重点是用户体验和可用性，总是思考
-      如何创建美观的界面，响应迅速，始终专注于
-      使用者
+      我发现我对编程很感兴趣，因此我成为了一名前端开发人员，目前我在这个领域工作了3年多
     </AboutDescription>
 
     <AboutDescription>
-      此外，我努力与我们的社区保持持续的联系，
-      通过内容制作、指导、生活和参与谈话
-      国内和国际技术。
+      在我的Blog中，我会分享我的技术和创意，并展示我的作品
     </AboutDescription>
 
     <AboutDescription>
-      我目前正在为我的博客开发一个新版本
-      此外，对于应用程序的中心来说，还有更多的经验和可用性
-      实施新语言，帮助生活在其他语言中的人
-      国家可以访问所制作的内容。
+      我喜欢将技术和创造力相结合，创造出更好的用户体验和可用性，并在我的作品中表达我的思考和情感，同时也喜欢专研一些新鲜的技术，将它们融入到我的作品里，我觉得这样很棒
     </AboutDescription>
 
     <AboutDescription>
-      我对你的来访感到非常高兴，并希望能更多地在这里见到你。
+     我目前正在为我的博客开发一个新版本，如果你有好的建议，那就太好了
+    </AboutDescription>
+  
+    <AboutDescription>
+     如果你想了解更多关于我，请随时联系我，我会很高兴与你交流。
     </AboutDescription>
 
     <AboutSubTitle>与我联系</AboutSubTitle>
