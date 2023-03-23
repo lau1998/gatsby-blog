@@ -12,7 +12,6 @@ const Avatar = () => {
               width: 100
               placeholder: TRACED_SVG
               layout: CONSTRAINED
-              alt:"头像,LOGO"
             )
           }
         }
