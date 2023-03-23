@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: `LAUCHER`,
     position: `前端开发工程师`,
-    description: `通过知识共享寻求改变我们社会的移动开发者。 `,
+    description: `通过知识共享寻求改变我们社会的前端开发者。 `,
     author: `LAUCHER`,
     siteURL: `https://czhlove.cn`,
   },
@@ -17,7 +17,6 @@ module.exports = {
     `gatsby-plugin-transition-link`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
-    // 需要成为第一个使用盖茨比备注图像的人
     {
       resolve: `gatsby-source-filesystem`,
       options: {
