@@ -19,7 +19,7 @@ const BlogList = (props) => {
 
   return (
     <Layout>
-      <Seo title="首页" />
+      <Seo title="刘承的Blog" />
       <s.ListWrapper>
         {postList.map(
           ({
