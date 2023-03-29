@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 
 import Layout from "../Layout";
 import Seo from "../seo.js";
-import RecommendedPosts from "../RecommendedPosts";
+// import RecommendedPosts from "../RecommendedPosts";
 import Comments from "../Comments";
 
 import * as s from "../Post/style";
@@ -30,7 +30,7 @@ const BlogPost = ({ data, pageContext }) => {
       />
       <s.PostHeader>
         <s.PostDate>
-          {date} • {timeToRead} 最小读数
+          {date} • 预计需要{timeToRead}分钟阅读时间
         </s.PostDate>
         <s.PostTitle>{title}</s.PostTitle>
         <s.PostDescription>{description}</s.PostDescription>
@@ -52,7 +52,7 @@ export const query = graphql`
       frontmatter {
         title
         description
-        date(locale: "zh-CN", formatString: "YYYY [年] MMMM DD [日]")
+        date(locale: "zh-CN", formatString: "YYYY [年] MM [月] DD [日]")
         thumbnail
       }
       html

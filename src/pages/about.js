@@ -23,9 +23,13 @@ const AboutPage = () => (
   <Layout>
     <Seo title="About" />
     <AboutHeader>关于我</AboutHeader>
-    <AboutDescription>我知道你会来，所以我在等</AboutDescription>
+    
     <AboutDescription>
-      欢迎访问我的Blog！我是Laucher，生活在成都
+      我知道你会来，所以我在等
+    </AboutDescription>
+
+    <AboutDescription>
+      欢迎访问我的Blog！我是刘承，生活在成都
     </AboutDescription>
 
     <AboutDescription>

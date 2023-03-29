@@ -1,67 +1,52 @@
 const links = [
   {
-    label: 'Algolia'
-  },
-  {
-    label: 'CSS'
-  },
-  {
-    label: 'Docker'
-  },
-  {
-    label: 'Figma'
-  },
-  {
-    label: 'Gatsby'
-  },
-  {
-    label: 'Git'
-  },
-  {
-    label: 'Github'
-  },
-  {
-    label: 'Gitlab'
-  },
-  {
-    label: 'HTML'
-  },
-  {
-    label: 'Linux'
+    label: 'Vue'
   },
   {
     label: 'Javascript'
   },
   {
-    label: 'Npm'
+    label: 'Typescript'
   },
   {
-    label: 'NodeJs'
+    label: 'HTML'
   },
   {
-    label: 'Pocket'
-  },
-  {
-    label: 'Python'
-  },
-  {
-    label: 'React'
+    label: 'CSS'
   },
   {
     label: 'Sass'
   },
   {
-    label: 'Slack'
+    label: 'Less'
   },
   {
-    label: 'Ubuntu'
+    label: 'NodeJs'
   },
   {
-    label: 'Wordpress'
+    label: 'Npm'
   },
   {
     label: 'Yarn'
-  }
+  },
+  {
+    label: 'Git'
+  },
+  {
+    label: 'React'
+  },
+  {
+    label: 'Gatsby'
+  },
+  {
+    label: 'Github'
+  },
+  {
+    label: 'Gitee'
+  },
+  {
+    label: 'StackOverflow'
+  },
 ];
 
 export default links;

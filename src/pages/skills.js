@@ -26,7 +26,6 @@ const SkillsPage = () => (
     <SkillsList>
       {links.map((link, index) => {
         const Icon = Icons[link.label];
-
         return (
           <SkillsWrapper key={link}>
             <SkillsItem>
@@ -43,24 +42,22 @@ const SkillsPage = () => (
 
     <SoftSkillsWrapper>
       <Div>
-        <SkillsP>共情</SkillsP>
+        <SkillsP>清晰的沟通</SkillsP>
       </Div>
       <Div>
-        <SkillsP>领导</SkillsP>
+        <SkillsP>执行力</SkillsP>
       </Div>
       <Div>
         <SkillsP>适应性</SkillsP>
       </Div>
       <Div>
-        <SkillsP>清晰的沟通</SkillsP>
-      </Div>
-
-      <Div>
         <SkillsP>团队合作</SkillsP>
       </Div>
-
       <Div>
-        <SkillsP>情商</SkillsP>
+        <SkillsP>时间管理</SkillsP>
+      </Div>
+      <Div>
+        <SkillsP>学习能力</SkillsP>
       </Div>
     </SoftSkillsWrapper>
   </Layout>

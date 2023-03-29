@@ -67,7 +67,7 @@ export const query = graphql`
           }
           frontmatter {
             category
-            date(locale: "zh-CN", formatString: "YYYY [年] MMMM DD [日]")
+            date(locale: "zh-CN", formatString: "YYYY [年] MM [月] DD [日]")
             description
             title
             background

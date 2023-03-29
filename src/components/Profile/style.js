@@ -51,7 +51,7 @@ export const ProfilePosition = styled.small`
   display: block;
   font-size: 1.1rem;
   font-family: "Montserrat", sans-serif;
-  margin-top: 3px;
+  margin-top: 16px;
   color: var(--colorLetters);
   cursor: default;
 

@@ -1,8 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-console.log("%c  欢迎您访问我的Blog！","font-size:66px;color:#AE4C9D;-webkit-text-fill-color:#AE4C9D;-webkit-text-stroke: 1px black;")
-
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
@@ -71,6 +69,7 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
       </body>
+     
     </html>
   );
 }

@@ -44,8 +44,7 @@ const Profile = () => {
         <ContainerImageAvatar>
           <ImageAvatar src={AvatarPNG} />
         </ContainerImageAvatar>
-        <ProfileAuthor>
-          {title}
+        <ProfileAuthor>{title}
           <ProfilePosition>{position}</ProfilePosition>
         </ProfileAuthor>
         <ProfileDescription>{description}</ProfileDescription>

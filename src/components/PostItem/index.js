@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import getThemeColor from '../../utils/getThemeColor';
+import { Time } from '@styled-icons/boxicons-regular/Time';
 
 import {
   PostItemLink,
@@ -30,10 +31,9 @@ const PostItem = ({
   >
     <PostItemWrapper>
       <PostItemTag background={background}>{category}</PostItemTag>
-
       <PostItemInfo>
         <PostItemDate>
-          {date} • {timeToRead} 最小读数
+        {date} • 预计需要{timeToRead}分钟阅读时间
         </PostItemDate>
         <PostItemTitle>{title}</PostItemTitle>
         <PostItemDescription>{description}</PostItemDescription>

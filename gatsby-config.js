@@ -4,10 +4,10 @@ const queries = require("./src/utils/algolia_queries");
 
 module.exports = {
   siteMetadata: {
-    title: `LAUCHER`,
+    title: `刘承`,
     position: `前端开发工程师`,
-    description: `通过知识共享寻求改变我们社会的前端开发者。 `,
-    author: `LAUCHER`,
+    description: `目视不同的地方，才能看到不同的风景`,
+    author: `刘承`,
     siteURL: `https://czhlove.cn`,
   },
   flags: {
@@ -107,7 +107,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `LAUCHER`,
-        short_name: `LAUCHER`,
+        short_name: `刘承`,
         start_url: `/`,
         background_color: `#191921;`,
         theme_color: `#191921;`,
