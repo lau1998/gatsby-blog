@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Como instalar, configurar e utilizar o Firebase em aplicações React Native
-description: Nesse artigo aprenderemos como instalar, configurar e utilizar o
-  Firebase em nossos apps React Native, além disso, aprenderemos também como
-  utilizar o Firebase Auth e Firestore Database.
+title: 怀念冬天
+description: 成为远行多年后，在同一个冬天里，对故土不同的怀念。
 date: 2021-01-17 08:49:45
 thumbnail: assets/img/1_YMQc5b6UaCNIOl6RvIfYwA.jpeg
 category: 随笔
 background: "#e261e0"
 ---
 <!--StartFragment-->
-
-> 成为远行多年后，在同一个冬天里，对故土不同的怀念。
 
 我所记得的冬天，来源于住了很多年的家里。
 
