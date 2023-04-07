@@ -49,7 +49,8 @@ const MenuBar = () => {
             <Home size={26} />
           </MenuBarItem>
         </MenuBarLink>
-        <MenuBarLink
+
+        {/* <MenuBarLink
           cover
           direction="left"
           bg={getThemeColor()}
@@ -60,7 +61,7 @@ const MenuBar = () => {
           <MenuBarItem>
             <Talks size={26} />
           </MenuBarItem>
-        </MenuBarLink>
+        </MenuBarLink> */}
 
         <MenuBarLink
           cover
