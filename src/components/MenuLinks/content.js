@@ -3,10 +3,10 @@ const links = [
     label: "首页",
     url: "/",
   },
-  {
-    label: "会谈和参与",
-    url: "/talks",
-  },
+  // {
+  //   label: "会谈和参与",
+  //   url: "/talks",
+  // },
   {
     label: "关于我",
     url: "/about",
