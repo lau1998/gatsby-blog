@@ -49,6 +49,10 @@ const MenuBar = () => {
             <Home size={26} />
           </MenuBarItem>
         </MenuBarLink>
+<<<<<<< HEAD
+=======
+
+>>>>>>> f1f984a8c4a2d53c17b4a9a9230cac0b12f8ecbd
         {/* <MenuBarLink
           cover
           direction="left"

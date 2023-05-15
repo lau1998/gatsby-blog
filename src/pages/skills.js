@@ -19,7 +19,7 @@ import {
 
 const SkillsPage = () => (
   <Layout>
-    <Seo title="Skills" />
+    <Seo title="我的技能" />
     <SkillsHeader>技能</SkillsHeader>
 
     <SkillsSubTitle>硬技能</SkillsSubTitle>

@@ -7,7 +7,7 @@ import { Html5 as HTML } from '@styled-icons/fa-brands';
 import { Javascript } from '@styled-icons/boxicons-logos';
 import { Typescript } from '@styled-icons/boxicons-logos';
 import { Npm } from '@styled-icons/fa-brands';
-import { Node as NodeJs } from '@styled-icons/fa-brands';
+import { Node as Nodejs } from '@styled-icons/fa-brands';
 import { ReactLogo as React } from '@styled-icons/fa-brands';
 import { Sass } from '@styled-icons/fa-brands';
 import { Less } from '@styled-icons/fa-brands';
@@ -17,19 +17,19 @@ import { StackOverflow } from '@styled-icons/boxicons-logos';
 
 const Icons = {
   Vue,
-  CSS,
-  Gatsby,
-  Git,
-  Github,
-  HTML,
   Javascript,
   Typescript,
-  Npm,
-  NodeJs,
-  React,
+  HTML,
+  CSS,
   Sass,
   Less,
+  Nodejs,
+  Npm,
   Yarn,
+  Git,
+  React,
+  Gatsby,
+  Github,
   Gitee,
   StackOverflow,
 };

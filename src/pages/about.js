@@ -21,9 +21,9 @@ import {
 
 const AboutPage = () => (
   <Layout>
-    <Seo title="About" />
+    <Seo title="关于我" />
     <AboutHeader>关于我</AboutHeader>
-    
+
     <AboutDescription>
       我知道你会来，所以我在等
     </AboutDescription>
@@ -45,11 +45,11 @@ const AboutPage = () => (
     </AboutDescription>
 
     <AboutDescription>
-     我目前正在为我的博客开发一个新版本，如果你有好的建议，那就太好了
+      我目前正在为我的博客开发一个新版本，如果你有好的建议，那就太好了
     </AboutDescription>
-  
+
     <AboutDescription>
-     如果你想了解更多关于我，请随时联系我，我会很高兴与你交流。
+      如果你想了解更多关于我，请随时联系我，我会很高兴与你交流。
     </AboutDescription>
 
     <AboutSubTitle>与我联系</AboutSubTitle>
