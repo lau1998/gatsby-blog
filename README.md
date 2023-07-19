@@ -23,11 +23,6 @@ Para saber mais sobre o Gatsby acesse (https://www.gatsbyjs.org/).
   - Ligth e Dark
   - Visualização em modo Grid ou Lista
 
-Modo Dark com visualização em lista
-![visualização do modo dark](src/images/imagem-final-dark.png)
-
-Modo Light com visualização em Grid
-![visualização do modo light](src/images/imagem-final-light.png)
 
 ## Tecnologias utilizadas
 
